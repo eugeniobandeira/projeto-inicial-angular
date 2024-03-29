@@ -21,11 +21,3 @@
   }
 
 }
-
-:host ::ng-deep .card-cancel-button {
-  background-color: aqua !important;
-}
-
-:host ::ng-deep mat-slider .mdc-slider__track--active_fill {
-  border-color: red !important;
-}
