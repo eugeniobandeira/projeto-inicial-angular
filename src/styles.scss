@@ -1,5 +1,9 @@
 // @import './styles/global-overrides';
 
-.card-cancel-button {
-  background-color: greenyellow !important;
+// .card-cancel-button {
+//   background-color: greenyellow !important;
+// }
+
+mat-slider#custom-slider .mdc-slider__track--active_fill {
+  border-color: #26ffed !important;
 }
